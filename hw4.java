@@ -4,5 +4,6 @@ public class hello {
       System.out.println("Changes after First commit!");
       System.out.println("git commit -m "D"");
       System.out.println("git commit -m "D"");
+      System.out.println("git commit -m "D"");
    }
 }
